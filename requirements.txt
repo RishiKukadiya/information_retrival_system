@@ -1,0 +1,10 @@
+python-dotenv
+ollama
+langchain
+PyPDF2
+faiss-cpu
+streamlit
+huggingface_hub
+openai
+# Optional dependencies for additional functionality
+langchain-community
